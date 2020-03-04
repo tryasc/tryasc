@@ -1,35 +1,66 @@
 import { Link } from "gatsby"
 import PropTypes from "prop-types"
 import React from "react"
+import { makeStyles } from '@material-ui/core/styles';
+import {
+  AppBar,
+  Toolbar,
+  Typography
+} from '@material-ui/core';
 
-const Header = ({ siteTitle }) => (
-  <header
-    style={{
-      background: `rebeccapurple`,
-      marginBottom: `1.45rem`,
-    }}
-  >
-    <div
+const useStyles = makeStyles(theme => ({
+  root: {
+    '& > * + *': {
+      marginLeft: theme.spacing(2),
+    },
+  },
+}));
+
+const Header = ({ siteTitle }) => {
+  const classes = useStyles();
+  return (
+    <AppBar position="static"
       style={{
-        margin: `0 auto`,
-        maxWidth: 960,
-        padding: `1.45rem 1.0875rem`,
+        padding: 0
       }}
-    >
-      <h1 style={{ margin: 0 }}>
-        <Link
-          to="/"
+
+     >
+      <div
+          className="top-nav"
           style={{
-            color: `white`,
-            textDecoration: `none`,
+            margin: `0 auto`,
+            width: 940,
           }}
         >
-          {siteTitle}
-        </Link>
-      </h1>
-    </div>
-  </header>
-)
+        <Toolbar
+
+      style={{
+        padding: 0,
+        position: 'relative'
+      }}
+      >
+          <Typography variant="h6">
+            <Link to="/" className='site-title'>{siteTitle}</Link>
+          </Typography>
+          <ul style={{ marginBottom: 0, position: 'absolute', right: 0, paddingRight: '10px' }}>
+            <li>
+              <Link to="/">Home</Link>
+            </li>
+            <li>
+              <Link to="/football/">Football</Link>
+            </li>
+            <li>
+              <Link to="/cheerleading/">Cheerleading</Link>
+            </li>
+            <li>
+              <Link to="/restival/">Travelers Restival</Link>
+            </li>
+          </ul>
+        </Toolbar>
+      </div>
+    </AppBar>
+  )
+}
 
 Header.propTypes = {
   siteTitle: PropTypes.string,
