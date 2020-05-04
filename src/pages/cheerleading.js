@@ -17,8 +17,7 @@ const CheerleadingPage = () => (
 
     <h2>REGISTRATION</h2>
 
-    <p>All Sign-ups will take place at Travelers Rest City Hall
-    125 Trailblazer Dr, Travelers Rest, SC 29690</p>
+    <p>Preliminary registration will be done via Google forms - please use link below.  Information on an in-person sign-up option will be posted soon.</p>
 
     <h3>2020 Registration</h3>
     <ul>
