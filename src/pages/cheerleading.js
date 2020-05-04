@@ -17,8 +17,7 @@ const CheerleadingPage = () => (
 
     <h2>REGISTRATION</h2>
 
-    <p>All Sign-ups will take place at Travelers Rest City Hall
-    125 Trailblazer Dr, Travelers Rest, SC 29690</p>
+    <p>Preliminary registration will be done via Google forms - please use link below.  Information on an in-person sign-up option will be posted soon.</p>
 
     <h3>2020 Registration</h3>
     <ul>
@@ -43,7 +42,7 @@ const CheerleadingPage = () => (
     <p>TRYA offers cheerleading for kids age 5-12.  Your child must be between 5 and 12 on or before August 31st of the current year.  Cheerleaders will be put in squads based age division cutoff dates of August 31 of the current year, unless otherwise requested to be on a different squad.</p>
 
     <h4>How much does it cost to play?</h4>
-    <p>The Registration fee is $150.  TRYA is a non-profit organization and we try to keep costs as low as possible for our members.  The registration cost goes toward cheer uniforms, field costs, insurance, and other expenses.</p>
+    <p>The Registration fee is $150.  TRYA is a non-profit organization and we try to keep costs as low as possible for our members.  The registration cost goes toward uniforms, field costs, insurance, and other expenses.</p>
 
     <h4>What equipment will my child need?</h4>
     <p>The only thing cheerleaders need to provide is their own sneakers.  Uniforms, poms, bows, etc, will be provided by TRYA.</p>
@@ -56,7 +55,7 @@ const CheerleadingPage = () => (
     <p>We try to keep our registration fees as low as possible while also covering all required costs (uniforms, equipment, league fees, field rentals, insurace, etc).  Depending on the year and coach decision, your team may have some fundraising events to cover additional banquet costs, team gear, etc.</p>
 
     <h4>Who do I contact if I have a problem?</h4>
-    <p>Any issues related to your squad should first be addressed with the coach.  If you need additional assistance, or have a general question, please contact us at info.tryasc@gmail.com.</p>
+    <p>Any issues related to your squad should first be addressed with the coach.  If you need additional assistance, or have a general question, please contact us at info.tryasc@gmail.com or send us a message on our facebook page.</p>
 
     <h4>How can I volunteer?</h4>
     <p>We are always looking for motivated volunteers!  Please contact us at info.tryasc@gmail.com if you are interested in a volunteer opportunity.  Thank you for your interest!</p>
