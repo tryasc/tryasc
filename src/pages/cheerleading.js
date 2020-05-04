@@ -32,8 +32,9 @@ const CheerleadingPage = () => (
     <h3>Items Needed for Registration:</h3>
     <ul>
       <li>Cheerleader’s Birth Certificate (We are unable to accept any registrations without a valid Birth Certificate)</li>
-      <li>$150 in the form of cash, check or credit card (there is an additional fee for credit card sales)(Please print and fill out the following documents ahead of time to expedite the registration process.  If you do not have access to a printer, we will have copies available for you at sign-ups.)</li>
-      <li>Link to Documents to print and fill out 
+      <li>$150 in the form of cash, check or credit card (there is an additional fee for credit card sales)
+      <li>Coming Soon - Please print and fill out the following documents ahead of time to expedite the registration process.  If you do not have access to a printer, we will have copies available for you at sign-ups.</li>
+      <li>Coming Soon - Additional Forms to print and fill out 
       (Football Information Sheet, Greenville Rec Physical For, Greenville Rec Waiver, Greenville 	Rec Parent Player Code of Conduct, Media Release)</li>
     </ul>
 
@@ -44,7 +45,7 @@ const CheerleadingPage = () => (
     <p>TRYA offers cheerleading for kids age 5-12.  Your child must be between 5 and 12 on or before August 31st of the current year.  Cheerleaders will be put in squads based age division cutoff dates of August 31 of the current year, unless otherwise requested to be on a different squad.</p>
 
     <h4>How much does it cost to play?</h4>
-    <p>The Registration fee is $150.  TRYA is a non-profit organization and we try to keep costs as low as possible for our members.  The registration cost goes toward uniforms, field costs, insurance, ref fees, etc...</p>
+    <p>The Registration fee is $150.  TRYA is a non-profit organization and we try to keep costs as low as possible for our members.  The registration cost goes toward cheer uniforms, field costs, insurance, and other expenses.</p>
 
     <h4>What equipment will my child need?</h4>
     <p>The only thing cheerleaders need to provide is their own sneakers.  Uniforms, poms, bows, etc, will be provided by TRYA.</p>
@@ -57,10 +58,10 @@ const CheerleadingPage = () => (
     <p>We try to keep our registration fees as low as possible while also covering all required costs (uniforms, equipment, league fees, field rentals, insurace, etc).  Depending on the year and coach decision, your team may have some fundraising events to cover additional banquet costs, team gear, etc.</p>
 
     <h4>Who do I contact if I have a problem?</h4>
-    <p>Any issues related to your squad should first be addressed with the coach.  If you need additional assistance, or have a general question, please contact us at info.tryasc@gmail.com or contact Allison Lee at _______.</p>
+    <p>Any issues related to your squad should first be addressed with the coach.  If you need additional assistance, or have a general question, please contact us at info.tryasc@gmail.com.</p>
 
     <h4>How can I volunteer?</h4>
-    <p>We are always looking for motivated volunteers!  Please contact Heather Gagne or Courtney Childers if you are interested in a volunteer opportunity.  You can also email us at info.tryasc@gmail.com.  Thank you for your interest!</p>
+    <p>We are always looking for motivated volunteers!  Please contact us at info.tryasc@gmail.com if you are interested in a volunteer opportunity.  Thank you for your interest!</p>
   </Layout>
 )
 
