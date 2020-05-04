@@ -16,11 +16,9 @@ const FootballPage = () => (
     <p>All Sign-ups will take place at Travelers Rest City Hall
     125 Trailblazer Dr, Travelers Rest, SC 29690</p>
 
-    <h3>2020 Registration Dates</h3>
+    <h3>2020 Registration</h3>
     <ul>
-      <li>Wednesday, May 13: 6pm-8pm</li>
-      <li>Saturday,  May 16: 10am – 2pm</li>
-      <li>Wednesday, May 20: 6pm - 8pm</li>
+      <li><a href="https://forms.gle/G6iGsyjAo3szXgg48" target="_blank">Football Form</a></li>
     </ul>
 
     <p>*Please Note: Football sign-ups are on a first come, first served basis!  Each team is allowed  a maximum of 28 players.  If there are more than 28 players registered for an age group, we will do our best to accommodate a second team, but this will be based on if there are enough additional registrants.  If there are not enough players to make two teams in an age group and your child is #29 or after in registration, they WILL NOT be able to play in the 2020 season, and you will be issued a refund.</p>

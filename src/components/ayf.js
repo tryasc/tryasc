@@ -13,12 +13,12 @@ import Img from "gatsby-image"
  * - `useStaticQuery`: https://www.gatsbyjs.org/docs/use-static-query/
  */
 
-export const GreenvilleRecLogo = () => {
+export const AyfLogo = () => {
   const data = useStaticQuery(graphql`
     query {
-      file(relativePath: { eq: "logo-gvlrec.png" }) {
+      file(relativePath: { eq: "logo-ayf.png" }) {
         childImageSharp {
-          fixed(width: 200) {
+          fixed(width: 150) {
             ...GatsbyImageSharpFixed
           }
         }
@@ -26,5 +26,5 @@ export const GreenvilleRecLogo = () => {
     }
   `)
 
-  return <Img fixed={data.file.childImageSharp.fixed} />
+  return <Img fixed={data.file.childImageSharp.fixed} width="200"/>
 }

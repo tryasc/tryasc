@@ -8,8 +8,11 @@
 import React from "react"
 import PropTypes from "prop-types"
 import { useStaticQuery, graphql } from "gatsby"
+import { GreenvilleRecLogo } from "./image"
+import { AyfLogo } from "./ayf"
 
 import Header from "./header"
+import Announcements from "./announcements"
 import "../styles/styles.scss"
 
 const Layout = ({ children }) => {
@@ -33,12 +36,17 @@ const Layout = ({ children }) => {
           padding: `0 1.0875rem 1.45rem`,
           marginTop: 400,
         }}
-      >
+    >
+        <Announcements />
         <main>{children}</main>
         <footer>
           © {new Date().getFullYear()} {data.site.siteMetadata.title}
         </footer>
-      </div> 
+        <div class="footer-links">
+          <a target="_blank" href="https://greenvillerec.com/"><GreenvilleRecLogo /></a>
+          <a target="_blank" href="https://americanyouthfootball.com/"><AyfLogo /></a>
+        </div>
+      </div>
     </>
   )
 }

@@ -20,11 +20,9 @@ const CheerleadingPage = () => (
     <p>All Sign-ups will take place at Travelers Rest City Hall
     125 Trailblazer Dr, Travelers Rest, SC 29690</p>
 
-    <h3>2020 Registration Dates</h3>
+    <h3>2020 Registration</h3>
     <ul>
-      <li>Wednesday, May 13: 6pm-8pm</li>
-      <li>Saturday,  May 16: 10am – 2pm</li>
-      <li>Wednesday, May 20: 6pm - 8pm</li>
+      <li><a href="https://forms.gle/Pw1ed1HcJtrNX3Dr5" target="_blank">Cheer Form</a></li>
     </ul>
 
     <p>*Please note: Cheerleaders do not need to attend sign-ups, they will have a separate sizing day.</p>

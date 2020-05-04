@@ -52,9 +52,6 @@ const Header = ({ siteTitle }) => {
             <li>
               <Link to="/cheerleading/">Cheerleading</Link>
             </li>
-            <li>
-              <Link to="/restival/">Travelers Restival</Link>
-            </li>
           </ul>
         </Toolbar>
       </div>
