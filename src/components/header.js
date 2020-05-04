@@ -2,6 +2,7 @@ import { Link } from "gatsby"
 import PropTypes from "prop-types"
 import React from "react"
 import { makeStyles } from '@material-ui/core/styles';
+import { TrLogo } from "./tr"
 import {
   AppBar,
   Toolbar,
@@ -21,7 +22,8 @@ const Header = ({ siteTitle }) => {
   return (
     <AppBar position="static"
       style={{
-        padding: 0
+        padding: 0,
+        backgroundColor: "#0834b7"
       }}
 
      >
@@ -40,7 +42,7 @@ const Header = ({ siteTitle }) => {
       }}
       >
           <Typography variant="h6">
-            <Link to="/" className='site-title'>{siteTitle}</Link>
+            <Link to="/" className='site-title'><TrLogo /> {siteTitle}</Link>
           </Typography>
           <ul style={{ marginBottom: 0, position: 'absolute', right: 0, paddingRight: '10px' }}>
             <li>
