@@ -13,7 +13,7 @@ const CheerleadingPage = () => (
     <h1>TRYA DEVILDOG CHEER</h1>
 
     <p>TRYA offers youth cheerleadingfor 5-12 year olds.   We strive to recruit positive role models to serve as our volunteer coaching staff  who can guide our athletes not only to compete at a high level, but also to focus on character development.    
-    Go Devildogs! #weareTR</p>
+    Go Devildogs! <strong>#weareTR</strong></p>
 
     <h2>REGISTRATION</h2>
 

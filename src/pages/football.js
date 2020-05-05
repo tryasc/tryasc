@@ -9,7 +9,7 @@ const FootballPage = () => (
     <SEO title="Football" />
     <h1>TRYA DEVILDOG FOOTALL</h1>
 
-    <p>TRYA offers youth football for 5-12 year olds through Greenville county Rec.  The safety of all our athletes is extremely important, and we strictly follow all safety guildlines set out by Greenville Rec and are members of USA Heads Up Football and American Youth Football.    We strive to recruit positive role models to serve as our volunteer coaching staff  who can guide our athletes not only to compete at a high level, but also to focus on character development.    Go Devildogs! #weareTR</p>
+    <p>TRYA offers youth football for 5-12 year olds through Greenville county Rec.  The safety of all our athletes is extremely important, and we strictly follow all safety guildlines set out by Greenville Rec and are members of USA Heads Up Football and American Youth Football.    We strive to recruit positive role models to serve as our volunteer coaching staff  who can guide our athletes not only to compete at a high level, but also to focus on character development.    Go Devildogs! <strong>#weareTR</strong></p>
 
     <h2>REGISTRATION</h2>
 

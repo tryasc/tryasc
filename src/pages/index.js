@@ -9,6 +9,11 @@ import EmailIcon from '@material-ui/icons/Email';
 const IndexPage = () => (
   <Layout>
     <SEO title="Home" />
+    <div class="updates">
+      <h2>Updates</h2>
+      <p>IF THEY OPEN WE WILL PLAY!</p>
+      <p>Your Travelers Rest Youth Association Board continues to meet and be prepared to play if and when the Greenville County Parks and Recreation Department allows us to do so.  We are committed to serving our community and getting back to all TRYA sponsored activities as we are able!</p>
+    </div>
     <h2>Registration Forms</h2>
     <ul class='sign-up-dates'>
       <li><a href="https://forms.gle/G6iGsyjAo3szXgg48" target="_blank">Football Form</a></li>
