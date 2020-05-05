@@ -28,7 +28,7 @@ const CheerleadingPage = () => (
     <ul>
       <li>Cheerleader’s Birth Certificate (We are unable to accept any registrations without a valid Birth Certificate)</li>
       <li>$150 in the form of cash, check or credit card (there is an additional fee for credit card sales)</li>
-      <li>Cheerleaders do not need to attend sign-ups, they will have a separate sizing day.</p>
+      <li>Cheerleaders do not need to attend sign-ups, they will have a separate sizing day.</li>
       <li>Coming Soon - Please print and fill out the following documents ahead of time to expedite the registration process.  If you do not have access to a printer, we will have copies available for you at sign-ups.</li>
       <li>Coming Soon - Additional Forms to print and fill out 
       (Football Information Sheet, Greenville Rec Physical For, Greenville Rec Waiver, Greenville 	Rec Parent Player Code of Conduct, Media Release)</li>
