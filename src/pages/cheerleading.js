@@ -12,7 +12,7 @@ const CheerleadingPage = () => (
 
     <h1>TRYA DEVILDOG CHEER</h1>
 
-    <p>TRYA offers youth cheerleadingfor 5-12 year olds.   We strive to recruit positive role models to serve as our volunteer coaching staff  who can guide our athletes not only to compete at a high level, but also to focus on character development.    
+    <p>TRYA offers youth cheerleading for 5-12 year olds.   We strive to recruit positive role models to serve as our volunteer coaching staff  who can guide our athletes not only to compete at a high level, but also to focus on character development.
     Go Devildogs! <strong>#weareTR</strong></p>
 
     <h2>REGISTRATION</h2>
@@ -24,12 +24,11 @@ const CheerleadingPage = () => (
       <li><a href="https://forms.gle/Pw1ed1HcJtrNX3Dr5" target="_blank">Cheer Form</a></li>
     </ul>
 
-    <p>*Please note: Cheerleaders do not need to attend sign-ups, they will have a separate sizing day.</p>
-
     <h3>Items Needed for Registration:</h3>
     <ul>
       <li>Cheerleader’s Birth Certificate (We are unable to accept any registrations without a valid Birth Certificate)</li>
       <li>$150 in the form of cash, check or credit card (there is an additional fee for credit card sales)</li>
+      <li>Cheerleaders do not need to attend sign-ups, they will have a separate sizing day.</p>
       <li>Coming Soon - Please print and fill out the following documents ahead of time to expedite the registration process.  If you do not have access to a printer, we will have copies available for you at sign-ups.</li>
       <li>Coming Soon - Additional Forms to print and fill out 
       (Football Information Sheet, Greenville Rec Physical For, Greenville Rec Waiver, Greenville 	Rec Parent Player Code of Conduct, Media Release)</li>
