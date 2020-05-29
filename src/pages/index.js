@@ -11,6 +11,7 @@ const IndexPage = () => (
     <SEO title="Home" />
     <div class="updates">
       <h2>Updates</h2>
+      <p>***5/29: LAST CALL FOR CHEER SIGN UPS!  Due to new regulations, our cheer squads are near max capacity.  Cheer sign-ups will be cut off after 5/30!</p>
       <p>IF THEY OPEN WE WILL PLAY!</p>
       <p>Your Travelers Rest Youth Association Board continues to meet and be prepared to play if and when the Greenville County Parks and Recreation Department allows us to do so.  We are committed to serving our community and getting back to all TRYA sponsored activities as we are able!</p>
     </div>
