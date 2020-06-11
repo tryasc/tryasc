@@ -20,7 +20,7 @@ const FootballPage = () => (
       <li><a href="https://forms.gle/G6iGsyjAo3szXgg48" target="_blank">Football Form</a></li>
     </ul>
 
-    <p>*Please Note: Football sign-ups are on a first come, first served basis!  Each team is allowed  a maximum of 28 players.  If there are more than 28 players registered for an age group, we will do our best to accommodate a second team, but this will be based on if there are enough additional registrants.  If there are not enough players to make two teams in an age group and your child is #29 or after in registration, they WILL NOT be able to play in the upcoming season, and you will be issued a refund.</p>
+    <p>*Please Note: Football sign-ups are on a first come, first served basis!  Each team is allowed  a maximum of 30 players.  If there are more than 30 players registered for an age group, we will do our best to accommodate a second team, but this will be based on if there are enough additional registrants.  If there are not enough players to make two teams in an age group and your child is #31 or after in registration, they WILL NOT be able to play in the upcoming season.</p>
 
     <h3>Items Needed for Registration:</h3>
     <ul>
@@ -28,9 +28,9 @@ const FootballPage = () => (
 
       <li>$150 for tackle, $75 for flag, in the form of cash, check or credit card (there is an additional fee for credit card sales)</li>
       <li>Football Players need to be present at sign-ups to get a current weight and accurate uniform sizings.</li>
-      <li>Coming Soon - Please print and fill out the following documents ahead of time to expedite the registration process.  If you do not have access to a printer, we will have copies available for you at sign-ups.</li>
-      <li>Coming Soon - Additional Documents to print and fill out
-      (Football Information Sheet, Greenville Rec Physical For, Greenville Rec Waiver, Greenville 	Rec Parent Player Code of Conduct, Media Release)</li>
+      <li>Please print and fill out the following documents ahead of time to expedite the registration process.  If you do not have access to a printer, we will have copies available for you at sign-ups.</li>
+      <li><a href="https://drive.google.com/file/d/142rwLYK_dB6S3s3UvWLC69K0Zd0h-R9r/view" target="_blank">2020 Youth Football Waiver</a></li>    
+         <li><a href="https://drive.google.com/file/d/1JdqNy__OeLlas7801-IC6WJyvFIRtfNn/view" target="_blank">2020 Player and Parent Code of Conduct</a></li>
     </ul>
 
     <h2>FOOTBALL FAQ</h2>
@@ -62,7 +62,7 @@ const FootballPage = () => (
 
     <h4>When are practices and games?</h4>
     <p>Practices will vary based on coach and field availability, but they typically begin in mid-July and are 3 days a week (usually Mon/Tue/Thu), then cut back to 2 days a week once games begin.</p>
-    <p>Game schedules are set by Greenville Rec (include link) and are released in late August.  Typically, the first game is in early September.   6U and 8u typically have games on Saturday.  10u and 12u typically have games on Monday, Tuesday or Thursday at 6:30pm and 8:00pm, respectively.  Please note these days and times may change year to year, this is only a guideline.  The last playoff game is usually in November.</p>
+    <p>Game schedules are set by Greenville Rec and are released in late August.  Typically, the first game is in early September.   6U and 8u typically have games on Saturday.  10u and 12u typically have games on Monday, Tuesday or Thursday at 6:30pm and 8:00pm, respectively.  Please note these days and times may change year to year, this is only a guideline.  The last playoff game is usually in November.</p>
 
     <h4>Will my child have to do any fundraisers?</h4>
     <p>We try to keep our registration fees as low as possible while also covering all required costs (uniforms, equipment, league fees, field rentals, insurace, etc).  Depending on the year and coach decision, your team may have some fundraising events to cover additional banquet costs, team gear, etc.</p>
