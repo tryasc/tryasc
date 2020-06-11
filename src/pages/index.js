@@ -11,7 +11,7 @@ const IndexPage = () => (
     <SEO title="Home" />
     <div class="updates">
       <h2>Updates</h2>
-      <p>GOOD NEWS!  Greenville Rec has given us the green light to proceed with the 2020 fall football and cheer season! </p>
+      <p>GOOD NEWS!  Greenville Rec has given us approval to proceed with the 2020 fall football and cheer season! </p>
       <p>We are still accepting registrations, but please note some age groups have a wait list.</p>
     </div>
     <h2>Registration Forms</h2>
