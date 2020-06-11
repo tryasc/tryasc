@@ -62,7 +62,7 @@ const FootballPage = () => (
 
     <h4>When are practices and games?</h4>
     <p>Practices will vary based on coach and field availability, but they typically begin in mid-July and are 3 days a week (usually Mon/Tue/Thu), then cut back to 2 days a week once games begin.</p>
-    <p>Game schedules are set by Greenville Rec (include link) and are released in late August.  Typically, the first game is in early September.   6U and 8u typically have games on Saturday.  10u and 12u typically have games on Monday, Tuesday or Thursday at 6:30pm and 8:00pm, respectively.  Please note these days and times may change year to year, this is only a guideline.  The last playoff game is usually in November.</p>
+    <p>Game schedules are set by Greenville Rec and are released in late August.  Typically, the first game is in early September.   6U and 8u typically have games on Saturday.  10u and 12u typically have games on Monday, Tuesday or Thursday at 6:30pm and 8:00pm, respectively.  Please note these days and times may change year to year, this is only a guideline.  The last playoff game is usually in November.</p>
 
     <h4>Will my child have to do any fundraisers?</h4>
     <p>We try to keep our registration fees as low as possible while also covering all required costs (uniforms, equipment, league fees, field rentals, insurace, etc).  Depending on the year and coach decision, your team may have some fundraising events to cover additional banquet costs, team gear, etc.</p>
