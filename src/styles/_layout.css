@@ -671,3 +671,7 @@ footer {
   border: 1px solid transparent;
   border-radius: .25rem;
 }
+
+.form-list dd{
+  margin-bottom: .65rem;
+}

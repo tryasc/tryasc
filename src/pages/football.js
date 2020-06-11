@@ -28,10 +28,18 @@ const FootballPage = () => (
 
       <li>$150 for tackle, $75 for flag, in the form of cash, check or credit card (there is an additional fee for credit card sales)</li>
       <li>Football Players need to be present at sign-ups to get a current weight and accurate uniform sizings.</li>
-      <li>Please print and fill out the following documents ahead of time to expedite the registration process.  If you do not have access to a printer, we will have copies available for you at sign-ups.</li>
-      <li><a href="https://drive.google.com/file/d/142rwLYK_dB6S3s3UvWLC69K0Zd0h-R9r/view" target="_blank">2020 Youth Football Waiver</a></li>    
-         <li><a href="https://drive.google.com/file/d/1JdqNy__OeLlas7801-IC6WJyvFIRtfNn/view" target="_blank">2020 Player and Parent Code of Conduct</a></li>
     </ul>
+
+
+    <dl class='form-list'>
+      <dd>Please print and fill out the following documents ahead of time to expedite the registration process.  If you do not have access to a printer, we will have copies available for you at sign-ups.</dd>
+      <dd>
+        <a href="https://drive.google.com/file/d/142rwLYK_dB6S3s3UvWLC69K0Zd0h-R9r/view" target="_blank">2020 Youth Football Waiver</a>
+      </dd>
+      <dd>
+        <a href="https://drive.google.com/file/d/1JdqNy__OeLlas7801-IC6WJyvFIRtfNn/view" target="_blank">2020 Player and Parent Code of Conduct</a>
+      </dd>
+    </dl>
 
     <h2>FOOTBALL FAQ</h2>
 
