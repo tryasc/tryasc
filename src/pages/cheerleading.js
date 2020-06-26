@@ -19,10 +19,7 @@ const CheerleadingPage = () => (
 
     <p>Preliminary registration will be done via Google forms - please use link below.  Information on an in-person sign-up option will be posted soon.</p>
 
-    <h3>2020 Registration</h3>
-    <ul>
-      <li><a href="https://forms.gle/Pw1ed1HcJtrNX3Dr5" target="_blank">Cheer Form</a></li>
-    </ul>
+    <h3>2020 Registration - Closed</h3>
 
     <h3>Items Needed for Registration:</h3>
     <ul>

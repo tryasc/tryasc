@@ -17,7 +17,6 @@ const IndexPage = () => (
     <h2>Registration Forms</h2>
     <ul class='sign-up-dates'>
       <li><a href="https://forms.gle/G6iGsyjAo3szXgg48" target="_blank">Football Form</a></li>
-      <li><a href="https://forms.gle/Pw1ed1HcJtrNX3Dr5" target="_blank">Cheer Form</a></li>
     </ul>
     <h2>Mission</h2>
     <p>The purpose of the Travelers Rest Youth Association is to provide organized athletic
