@@ -17,8 +17,6 @@ const CheerleadingPage = () => (
 
     <h2>REGISTRATION</h2>
 
-    <p>Preliminary registration will be done via Google forms - please use link below.  Information on an in-person sign-up option will be posted soon.</p>
-
     <h3>2020 Registration - Closed</h3>
 
     <h3>Items Needed for Registration:</h3>

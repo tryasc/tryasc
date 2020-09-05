@@ -13,12 +13,8 @@ const FootballPage = () => (
 
     <h2>REGISTRATION</h2>
 
-    <p>Preliminary registration will be done via Google forms - please use link below.  Information on an in-person sign-up option will be posted soon.</p>
+    <h3>2020 Registration - Closed</h3>
 
-    <h3>2020 Registration</h3>
-    <ul>
-      <li><a href="https://forms.gle/G6iGsyjAo3szXgg48" target="_blank">Football Form</a></li>
-    </ul>
 
     <p>*Please Note: Football sign-ups are on a first come, first served basis!  Each team is allowed  a maximum of 30 players.  If there are more than 30 players registered for an age group, we will do our best to accommodate a second team, but this will be based on if there are enough additional registrants.  If there are not enough players to make two teams in an age group and your child is #31 or after in registration, they WILL NOT be able to play in the upcoming season.</p>
 

@@ -12,12 +12,9 @@ const IndexPage = () => (
     <div class="updates">
       <h2>Updates</h2>
       <p>GOOD NEWS!  Greenville Rec has given us approval to proceed with the 2020 fall football and cheer season! </p>
-      <p>We are still accepting registrations, but please note some age groups have a wait list.</p>
     </div>
     <h2>Registration Forms</h2>
-    <ul class='sign-up-dates'>
-      <li><a href="https://forms.gle/G6iGsyjAo3szXgg48" target="_blank">Football Form</a></li>
-    </ul>
+    <p>2020 Registration is closed.</p>
     <h2>Mission</h2>
     <p>The purpose of the Travelers Rest Youth Association is to provide organized athletic
 instructional opportunities and the ideals of good sportsmanship, competitiveness,
