@@ -631,10 +631,21 @@ pre tt:after {
   }
 }
 
+@media only screen and (max-width: 767px) {
+  .top-nav ul{
+    li.cheerleading {
+      display: none;
+    }
+  }
+}
+
 @media only screen and (min-width: 768px) {
   .top-nav ul{
     position: absolute;
     right: 0;
+    li.cheer {
+      display: none;
+    }
   }
 }
 

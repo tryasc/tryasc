@@ -51,8 +51,11 @@ const Header = ({ siteTitle }) => {
             <li>
               <Link to="/football/" activeClassName="active">Football</Link>
             </li>
-            <li>
+            <li className="cheerleading">
               <Link to="/cheerleading/" activeClassName="active">Cheerleading</Link>
+            </li>
+            <li className="cheer">
+              <Link to="/cheerleading/" activeClassName="active">Cheer</Link>
             </li>
           </ul>
         </Toolbar>
