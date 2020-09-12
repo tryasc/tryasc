@@ -20,9 +20,15 @@ const Announcements = () => {
   const classes = useStyles();
   return (
     <div className="announcements">
-      <p>Due to COVID-19, we have implemented a new registration process for the 2020 season. We have set up an online Google Form for preliminary registration.  Once submitted, we will contact you with payment details.  Please be aware your registration is not complete until payment is received.  In order to help families who have been affected financially during this time, we have opted to use an off the shelf uniform to lower the registration costs for 2020.</p>
-      <p>Tackle Football and Cheerleading: $125 / Flag Football: $50</p>
-      <p>*Please Note: Registration is still on a FIRST COME, FIRST SERVED basis.  Sign up early to reserve your spot!</p>
+      <p>Greetings, TRYA Families. We are incredibly excited to be back on the fields for games and practice! As school and other activities begin, staying healthy and avoiding the spread of sickness (even in areas not related to Covid) has always been important to our organization. We want to be careful and need your help in keeping everyone well! Please use the following guidelines:</p>
+      <ul>
+        <li>If your athlete or anyone in direct contact with your athlete is sick, please stay home.</li>
+        <li>Communication is key. Please communicate with your coaches about any sickness.</li>
+        <li>Staying home due to illness will not impact an athlete’s playing time or position on the team/squad.</li>
+        <li>We need everyone’s help and cooperation keeping our athletes safe and healthy on and off the field.</li>
+      </ul>
+
+      <p>We look forward to a great season ahead, and Go Devildogs!</p>
     </div>
   )
 }

@@ -11,7 +11,8 @@ const IndexPage = () => (
     <SEO title="Home" />
     <div class="updates">
       <h2>Updates</h2>
-      <p>GOOD NEWS!  Greenville Rec has given us approval to proceed with the 2020 fall football and cheer season! </p>
+      <p>Our concession stand will be open during games at Trailblazer! All proceeds go to the teams of TRYA.</p>
+      <p>See our game schedule <a target="_blank" href="https://calendar.google.com/calendar/embed?src=info.tryasc%40gmail.com&ctz=America%2FNew_York">here</a>!</p>
     </div>
     <h2>Registration Forms</h2>
     <p>2020 Registration is closed.</p>

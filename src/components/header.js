@@ -20,7 +20,7 @@ const useStyles = makeStyles(theme => ({
 const Header = ({ siteTitle }) => {
   const classes = useStyles();
   return (
-    <AppBar position="static"
+    <AppBar position="fixed"
       style={{
         padding: 0,
         backgroundColor: "#0834b7"
@@ -46,13 +46,13 @@ const Header = ({ siteTitle }) => {
           </Typography>
           <ul style={{ marginBottom: 0, position: 'absolute', right: 0, paddingRight: '10px' }}>
             <li>
-              <Link to="/">Home</Link>
+              <Link to="/" activeClassName="active">Home</Link>
             </li>
             <li>
-              <Link to="/football/">Football</Link>
+              <Link to="/football/" activeClassName="active">Football</Link>
             </li>
             <li>
-              <Link to="/cheerleading/">Cheerleading</Link>
+              <Link to="/cheerleading/" activeClassName="active">Cheerleading</Link>
             </li>
           </ul>
         </Toolbar>
