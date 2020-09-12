@@ -631,12 +631,11 @@ pre tt:after {
   }
 }
 
-/**
- * Header nav
- */
-
-Link.active {
-  text-decoration: underline;
+@media only screen and (min-width: 768px) {
+  .top-nav ul{
+    position: absolute;
+    right: 0;
+  }
 }
 
 /**

@@ -44,7 +44,7 @@ const Header = ({ siteTitle }) => {
           <Typography variant="h6">
             <Link to="/" className='site-title'><TrLogo /> {siteTitle}</Link>
           </Typography>
-          <ul style={{ marginBottom: 0, position: 'absolute', right: 0, paddingRight: '10px' }}>
+          <ul style={{ marginBottom: 0, paddingRight: '10px' }}>
             <li>
               <Link to="/" activeClassName="active">Home</Link>
             </li>
