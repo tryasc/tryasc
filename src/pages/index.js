@@ -10,12 +10,15 @@ const IndexPage = () => (
   <Layout>
     <SEO title="Home" />
     <div class="updates">
-      <h2>Updates</h2>
-      <p>Our concession stand will be open during games at Trailblazer! All proceeds go to the teams of TRYA.</p>
-      <p>See our game schedule <a target="_blank" href="https://calendar.google.com/calendar/embed?src=info.tryasc%40gmail.com&ctz=America%2FNew_York">here</a>!</p>
+      <h2>2021 Updates</h2>
+      <p><b>*May 1:</b> Online registration will open</p>
+      <p><b>*May 12th (6-8pm) & May 15th (10am-1pm):</b> In-person registration at Trailblazer Park</p>
+      <p>Cost: $160 per athlete</p>
+      <p>*Please Note: Football sign-ups are on a first-come, first-served basis! Each team is allowed a maximum of 22 players. If there are more than 22 players registered for an age group, we will do our best to accommodate a second team, but this will be based on if there are enough additional registrants. If there are not enough players to make two teams in an age group and your child is #23 or after in registration, they WILL NOT be able to play in the upcoming season.</p>
+      <p>We’re looking forward to a great season! #WeAreTR</p>
     </div>
     <h2>Registration Forms</h2>
-    <p>2020 Registration is closed.</p>
+    <p>Coming May 1, 2021</p>
     <h2>Mission</h2>
     <p>The purpose of the Travelers Rest Youth Association is to provide organized athletic
 instructional opportunities and the ideals of good sportsmanship, competitiveness,
