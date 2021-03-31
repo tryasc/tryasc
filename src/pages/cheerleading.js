@@ -24,9 +24,14 @@ const CheerleadingPage = () => (
 
     <h3>Items Needed for Registration:</h3>
     <ul>
-      <li>$160
-      <li>Cheerleaders do not need to attend sign-ups, they will have a separate sizing day.</li>
+     <li>$160</li>
     </ul>
+
+
+    <dl class='form-list'>
+      <dd>For online registration: once you have filled out the google form, you will receive an email (please allow 2-3 business days) informing you of your athletes's place in line, as well as payment instructions.</dd>
+      </dd>
+    </dl>
 
     <h2>CHEERLEADING FAQ</h2>
 
@@ -35,7 +40,7 @@ const CheerleadingPage = () => (
     <p>TRYA offers cheerleading for kids age 5-12.  Your child must be between 5 and 12 on or before August 31st of the current year.  Cheerleaders will be put in squads based age division cutoff dates of August 31 of the current year, unless otherwise requested to be on a different squad.</p>
 
     <h4>How much does it cost to play?</h4>
-    <p>The Registration fee is $150.  TRYA is a non-profit organization and we try to keep costs as low as possible for our members.  The registration cost goes toward uniforms, field costs, insurance, and other expenses.</p>
+    <p>The Registration fee for the 2021 season is $160.  TRYA is a non-profit organization and we try to keep costs as low as possible for our members.  The increased cost this season will not only go toward high quality uniforms, field costs, insurance, and various other expenses, but will also eliminate the need for any individual squad fundraising.</p>
 
     <h4>What equipment will my child need?</h4>
     <p>The only thing cheerleaders need to provide is their own sneakers.  Uniforms, poms, bows, etc, will be provided by TRYA.</p>
@@ -45,7 +50,7 @@ const CheerleadingPage = () => (
     <p>Game schedules are set by Greenville Rec and are released in late August.  Typically, the first game is in early September.   6U and 8u typically have games on Saturday.  10u and 12u typically have games on Monday, Tuesday or Thursday at 6:30pm and 8:00pm, respectively.  Please note these days and times may change year to year, this is only a guideline.  The last playoff game is usually in November.</p>
 
     <h4>Will my child have to do any fundraisers?</h4>
-    <p>We try to keep our registration fees as low as possible while also covering all required costs (uniforms, equipment, league fees, field rentals, insurace, etc).  Depending on the year and coach decision, your team may have some fundraising events to cover additional banquet costs, team gear, etc.</p>
+    <p>For the 2021 season, we have slightly increased registration costs in order to eliminate the need for any individual fundraisers.</p>
 
     <h4>Who do I contact if I have a problem?</h4>
     <p>Any issues related to your squad should first be addressed with the coach.  If you need additional assistance, or have a general question, please contact us at info.tryasc@gmail.com or send us a message on our facebook page.</p>
