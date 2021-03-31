@@ -36,15 +36,18 @@ const Layout = ({ children }) => {
           padding: `0 1.0875rem 1.45rem`,
           marginTop: 200,
         }}
-    >
-        <Announcements />
+      >
         <main>{children}</main>
         <footer>
           © {new Date().getFullYear()} {data.site.siteMetadata.title}
         </footer>
         <div class="footer-links">
-          <a target="_blank" href="https://greenvillerec.com/"><GreenvilleRecLogo /></a>
-          <a target="_blank" href="https://americanyouthfootball.com/"><AyfLogo /></a>
+          <a target="_blank" href="https://greenvillerec.com/">
+            <GreenvilleRecLogo />
+          </a>
+          <a target="_blank" href="https://americanyouthfootball.com/">
+            <AyfLogo />
+          </a>
         </div>
       </div>
     </>
