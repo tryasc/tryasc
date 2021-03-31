@@ -17,15 +17,15 @@ const CheerleadingPage = () => (
 
     <h2>REGISTRATION</h2>
 
-    <h3>2020 Registration - Closed</h3>
+    <h3>2021 Registration</h3>
+
+    <p><b>*May 1:</b> Online registration will open</p>
+    <p><b>*May 12th (6-8pm) & *May 15th (10am-1pm):</b> In-person registration at Trailblazer Park</p> <h3>2020 Registration - Closed</h3>
 
     <h3>Items Needed for Registration:</h3>
     <ul>
-      <li>Cheerleader’s Birth Certificate (We are unable to accept any registrations without a valid Birth Certificate)</li>
-      <li>$150 in the form of cash, check or credit card (there is an additional fee for credit card sales)</li>
+      <li>$160
       <li>Cheerleaders do not need to attend sign-ups, they will have a separate sizing day.</li>
-      <li>Coming Soon - Please print and fill out the following documents ahead of time to expedite the registration process.  If you do not have access to a printer, we will have copies available for you at sign-ups.</li>
-      <li>Coming Soon - Additional Forms to print and fill out. </li>
     </ul>
 
     <h2>CHEERLEADING FAQ</h2>
