@@ -13,27 +13,22 @@ const FootballPage = () => (
 
     <h2>REGISTRATION</h2>
 
-    <h3>2020 Registration - Closed</h3>
+    <h3>2021 Registration</h3>
 
-
-    <p>*Please Note: Football sign-ups are on a first come, first served basis!  Each team is allowed  a maximum of 30 players.  If there are more than 30 players registered for an age group, we will do our best to accommodate a second team, but this will be based on if there are enough additional registrants.  If there are not enough players to make two teams in an age group and your child is #31 or after in registration, they WILL NOT be able to play in the upcoming season.</p>
+    <p><b>*May 1:</b> Online registration will open</p>
+    <p><b>*May 12th (6-8pm) & *May 15th (10am-1pm):</b> In-person registration at Trailblazer Park</p> 
+    <p>*Please Note: Football sign-ups are on a first-come, first-served basis! Each team is allowed a maximum of 22 players. If there are more than 22 players registered for an age group, we will do our best to accommodate a second team, but this will be based on if there are enough additional registrants. If there are not enough players to make two teams in an age group and your child is #23 or after in registration, they WILL NOT be able to play in the upcoming season.</p>
 
     <h3>Items Needed for Registration:</h3>
     <ul>
       <li>Player Birth Certificate (We are unable to accept any registrations without a valid Birth Certificate)</li>
 
-      <li>$150 for tackle, $75 for flag, in the form of cash, check or credit card (there is an additional fee for credit card sales)</li>
-      <li>Football Players need to be present at sign-ups to get a current weight and accurate uniform sizings.</li>
+      <li>$160 for tackle, $100 for flag</li>
     </ul>
 
 
     <dl class='form-list'>
-      <dd>Please print and fill out the following documents ahead of time to expedite the registration process.  If you do not have access to a printer, we will have copies available for you at sign-ups.</dd>
-      <dd>
-        <a href="https://drive.google.com/file/d/142rwLYK_dB6S3s3UvWLC69K0Zd0h-R9r/view" target="_blank">2020 Youth Football Waiver</a>
-      </dd>
-      <dd>
-        <a href="https://drive.google.com/file/d/1JdqNy__OeLlas7801-IC6WJyvFIRtfNn/view" target="_blank">2020 Player and Parent Code of Conduct</a>
+      <dd>For online registration: once you have filled out the google form, you will receive an email (please allow 2-3 business days) informing you of your athletes's place in line, as well as payment instructions.</dd>
       </dd>
     </dl>
 
@@ -57,7 +52,7 @@ const FootballPage = () => (
 
 
     <h4>How much does it cost to play?</h4>
-    <p>The Registration fee for tackle Football players is $150.  The Registraion fee for flag football players is $75.  TRYA is a non-profit organization and we try to keep costs as low as possible for our members.  The registration cost goes toward uniforms, field costs, insurance, ref fees, and various other expenses.</p>
+    <p>The Registration fee for tackle Football players for the 2021 season is $160.  The Registraion fee for flag football players for teh 2021 season is $100.  TRYA is a non-profit organization and we try to keep costs as low as possible for our members.  The increased cost this season will not only go go toward high qualtiy uniforms, field costs, insurance, ref fees, and various other expenses, but will also eliminate the need for any individual team fundraising.</p>
 
     <h4>What equipment will my child need?</h4>
 
@@ -69,7 +64,7 @@ const FootballPage = () => (
     <p>Game schedules are set by Greenville Rec and are released in late August.  Typically, the first game is in early September.   6U and 8u typically have games on Saturday.  10u and 12u typically have games on Monday, Tuesday or Thursday at 6:30pm and 8:00pm, respectively.  Please note these days and times may change year to year, this is only a guideline.  The last playoff game is usually in November.</p>
 
     <h4>Will my child have to do any fundraisers?</h4>
-    <p>We try to keep our registration fees as low as possible while also covering all required costs (uniforms, equipment, league fees, field rentals, insurace, etc).  Depending on the year and coach decision, your team may have some fundraising events to cover additional banquet costs, team gear, etc.</p>
+    <p>For the 2021 season, we have slightly increased registration costs in order to eliminate the need for any individual fundraisers.</p>
 
     <h4>Who do I contact if I have a problem?</h4>
     <p>Any issues related to your team should first be addressed with the coach.  If you need additional assistance, or have a general question, please contact us at info.tryasc@gmail.com or send us a message on our facebook page.</p>
