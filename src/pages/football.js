@@ -141,7 +141,7 @@ const FootballPage = () => (
     <h4>Will my child have to do any fundraisers?</h4>
     <p>
       For the 2021 season, we have slightly increased registration costs in
-      order to eliminate the need for any individual fundraisers.
+      order to eliminate the need for any individual team fundraisers.
     </p>
 
     <h4>Who do I contact if I have a problem?</h4>
@@ -153,7 +153,7 @@ const FootballPage = () => (
 
     <h4>How can I volunteer?</h4>
     <p>
-      We are always looking for motivated volunteers! Please contact us at
+      We are always looking for motivated volunteers! Please contact us at 
       <a href="mailto:info.tryasc@gmail.com">info.tryasc@gmail.com</a> if you are interested in a volunteer oppoortunity.
       Thank you for your interest!
     </p>
