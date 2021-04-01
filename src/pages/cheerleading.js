@@ -29,9 +29,8 @@ const CheerleadingPage = () => (
     </ul>
     <dl class="form-list">
       <dd>
-        For online registration: once you have filled out the google form, you
-        will receive an email (please allow 2-3 business days) informing you of
-        your athletes's place in line, as well as payment instructions.
+        For online registration: We will provide a google form to submit registration information.  Once submitted, you
+        will receive a confirmation email (please allow 1-2 business days) which will include payment instructions.
       </dd>
     </dl>
     <h2>CHEERLEADING FAQ</h2>
