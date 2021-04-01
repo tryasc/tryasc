@@ -53,7 +53,7 @@ const FootballPage = () => (
     <dl class="form-list">
       <dd>
         For online registration: We will provide a google form to submit registration information.  Once submitted, you
-        will receive an email (please allow 1-2 business days) informing you of
+        will receive a confirmation email (please allow 1-2 business days) informing you of
         your athletes's place in line, as well as payment instructions.
       </dd>
     </dl>
