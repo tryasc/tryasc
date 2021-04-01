@@ -52,7 +52,7 @@ const FootballPage = () => (
 
     <dl class="form-list">
       <dd>
-        For online registration: once you have filled out the google form, you
+        For online registration: We will provide a google form to submit registration information.  Once submitted, you
         will receive an email (please allow 2-3 business days) informing you of
         your athletes's place in line, as well as payment instructions.
       </dd>
@@ -103,9 +103,9 @@ const FootballPage = () => (
     <h4>How much does it cost to play?</h4>
     <p>
       The Registration fee for tackle Football players for the 2021 season is
-      $160. The Registraion fee for flag football players for teh 2021 season is
+      $160. The Registraion fee for flag football players for the 2021 season is
       $100. TRYA is a non-profit organization and we try to keep costs as low as
-      possible for our members. The increased cost this season will not only go
+      possible for our members. The increased cost this season will not only 
       go toward high qualtiy uniforms, field costs, insurance, ref fees, and
       various other expenses, but will also eliminate the need for any
       individual team fundraising.
@@ -148,14 +148,13 @@ const FootballPage = () => (
     <p>
       Any issues related to your team should first be addressed with the coach.
       If you need additional assistance, or have a general question, please
-      contact us at info.tryasc@gmail.com or send us a message on our facebook
-      page.
+      contact us at <a href="mailto:info.tryasc@gmail.com">info.tryasc@gmail.com</a> or send us a message on our <a target="_blank" href="https://www.facebook.com/groups/345642595590502/">facebook page</a>
     </p>
 
     <h4>How can I volunteer?</h4>
     <p>
       We are always looking for motivated volunteers! Please contact us at
-      info.tryasc@gmail.com if you are interested in a volunteer oppoortunity.
+      <a href="mailto:info.tryasc@gmail.com">info.tryasc@gmail.com</a> if you are interested in a volunteer oppoortunity.
       Thank you for your interest!
     </p>
   </Layout>
