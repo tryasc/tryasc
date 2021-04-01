@@ -15,7 +15,7 @@ const IndexPage = () => (
       <p><b>*May 12th (6-8pm) & May 15th (10am-1pm):</b> In-person registration at Trailblazer Park</p>
       <p>Cost: $160 per athlete</p>
       <p>*Please Note: Football sign-ups are on a first-come, first-served basis! Each team is allowed a maximum of 22 players. If there are more than 22 players registered for an age group, we will do our best to accommodate a second team, but this will be based on if there are enough additional registrants. If there are not enough players to make two teams in an age group and your child is #23 or after in registration, they WILL NOT be able to play in the upcoming season.</p>
-      <p>We’re looking forward to a great season! #WeAreTR</p>
+      <p>We’re looking forward to a great season! <b>#WeAreTR</b></p>
     </div>
     <h2>Registration Forms</h2>
     <p>Coming May 1, 2021</p>
