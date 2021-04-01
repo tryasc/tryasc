@@ -81,7 +81,7 @@ const CheerleadingPage = () => (
     </p>
     <h4>How can I volunteer?</h4>
     <p>
-      We are always looking for motivated volunteers! Please contact us at
+      We are always looking for motivated volunteers! Please contact us at 
       <a href="mailto:info.tryasc@gmail.com">info.tryasc@gmail.com</a> if you are interested in a volunteer opportunity.
       Thank you for your interest!
     </p>
