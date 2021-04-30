@@ -12,7 +12,6 @@ import { GreenvilleRecLogo } from "./image"
 import { AyfLogo } from "./ayf"
 
 import Header from "./header"
-import Announcements from "./announcements"
 import "../styles/styles.scss"
 
 const Layout = ({ children }) => {
@@ -42,10 +41,14 @@ const Layout = ({ children }) => {
           © {new Date().getFullYear()} {data.site.siteMetadata.title}
         </footer>
         <div class="footer-links">
-          <a target="_blank" href="https://greenvillerec.com/">
+          <a target="_blank" rel="noreferrer" href="https://greenvillerec.com/">
             <GreenvilleRecLogo />
           </a>
-          <a target="_blank" href="https://americanyouthfootball.com/">
+          <a
+            target="_blank"
+            rel="noreferrer"
+            href="https://americanyouthfootball.com/"
+          >
             <AyfLogo />
           </a>
         </div>

@@ -1,5 +1,4 @@
 import React from "react"
-import { Link } from "gatsby"
 
 import Layout from "../components/layout"
 import SEO from "../components/seo"
@@ -52,8 +51,9 @@ const FootballPage = () => (
 
     <dl class="form-list">
       <dd>
-        For online registration: We will provide a google form to submit registration information.  Once submitted, you
-        will receive a confirmation email (please allow 1-2 business days) informing you of
+        For online registration: We will provide a google form to submit
+        registration information. Once submitted, you will receive a
+        confirmation email (please allow 1-2 business days) informing you of
         your athletes's place in line, as well as payment instructions.
       </dd>
     </dl>
@@ -105,8 +105,8 @@ const FootballPage = () => (
       The Registration fee for tackle Football players for the 2021 season is
       $160. The Registraion fee for flag football players for the 2021 season is
       $100. TRYA is a non-profit organization and we try to keep costs as low as
-      possible for our members. The increased cost this season will not only 
-      go toward high qualtiy uniforms, field costs, insurance, ref fees, and
+      possible for our members. The increased cost this season will not only go
+      toward high qualtiy uniforms, field costs, insurance, ref fees, and
       various other expenses, but will also eliminate the need for any
       individual team fundraising.
     </p>
@@ -148,14 +148,23 @@ const FootballPage = () => (
     <p>
       Any issues related to your team should first be addressed with the coach.
       If you need additional assistance, or have a general question, please
-      contact us at <a href="mailto:info.tryasc@gmail.com">info.tryasc@gmail.com</a> or send us a message on our <a target="_blank" href="https://www.facebook.com/groups/345642595590502/">facebook page</a>
+      contact us at{" "}
+      <a href="mailto:info.tryasc@gmail.com">info.tryasc@gmail.com</a> or send
+      us a message on our{" "}
+      <a
+        target="_blank"
+        rel="noreferrer"
+        href="https://www.facebook.com/groups/345642595590502/"
+      >
+        facebook page
+      </a>
     </p>
 
     <h4>How can I volunteer?</h4>
     <p>
-      We are always looking for motivated volunteers! Please contact us at 
-      <a href="mailto:info.tryasc@gmail.com">info.tryasc@gmail.com</a> if you are interested in a volunteer oppoortunity.
-      Thank you for your interest!
+      We are always looking for motivated volunteers! Please contact us at
+      <a href="mailto:info.tryasc@gmail.com">info.tryasc@gmail.com</a> if you
+      are interested in a volunteer oppoortunity. Thank you for your interest!
     </p>
   </Layout>
 )

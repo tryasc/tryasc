@@ -1,16 +1,33 @@
 import React from "react"
-import { Link } from "gatsby"
 
 import Layout from "../components/layout"
 import SEO from "../components/seo"
 
+import RestivalImg from "../images/restival.jpg"
+
 const RestivalPage = () => (
   <Layout>
     <SEO title="Restival" />
-    <h1>Travelers Restival</h1>
-    <p>We are excited to announce our second annual community-wide Travelers Restival will be held Saturday, August 22, 2020.</p>
-    <p>Hosted by Travelers Rest High School and Travelers Rest Youth Association.</p>
-    <p>MORE INFORMATION COMING SOON!</p>
+    <p style={{ textAlign: "center" }}>
+      <img src={RestivalImg} alt="Travelers Restival" width="500" />
+    </p>
+    <p>
+      We are excited to announce our 2nd annual community-wide Travelers
+      Restival.
+      <br />
+      Saturday, August 21, 2021
+      <br />
+      3 PM - 8 PM
+      <br />
+      Trailblazer Park
+    </p>
+    <p>Vendor and donor applications coming soon.</p>
+    <p>
+      Please direct questions to{" "}
+      <a href="mailto:travelersrestival@gmail.com">
+        travelersrestival@gmail.com
+      </a>
+    </p>
   </Layout>
 )
 
