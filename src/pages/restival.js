@@ -21,7 +21,24 @@ const RestivalPage = () => (
       <br />
       Trailblazer Park
     </p>
-    <p>Vendor and donor applications coming soon.</p>
+    <p>
+      <a
+        href="https://forms.gle/qQNYASncdcp4NTx49"
+        target="_blank"
+        rel="nofollow"
+      >
+        2nd Annual Travelers Restival Vendor Application
+      </a>
+    </p>
+    <p>
+      <a
+        href="https://forms.gle/npo1EvxkQLK5hh988"
+        target="_blank"
+        rel="nofollow"
+      >
+        2nd Annual Travelers Restival Sponsor Form
+      </a>
+    </p>
     <p>
       Please direct questions to{" "}
       <a href="mailto:travelersrestival@gmail.com">
