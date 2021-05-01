@@ -32,7 +32,24 @@ const IndexPage = () => (
       </p>
     </div>
     <h2>Registration Forms</h2>
-    <p>Coming May 1, 2021</p>
+    <p>
+      <a
+        href="https://forms.gle/EP98mGhRtKuPeaGv9"
+        target="_blank"
+        rel="nofollow"
+      >
+        2021 Football Registration
+      </a>
+    </p>
+    <p>
+      <a
+        href="https://forms.gle/yiMC8ZvmZswC5Jv39"
+        target="_blank"
+        rel="nofollow"
+      >
+        2021 Cheer Registration
+      </a>
+    </p>
     <h2>Mission</h2>
     <p>
       The purpose of the Travelers Rest Youth Association is to provide
