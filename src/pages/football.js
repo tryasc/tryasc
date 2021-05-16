@@ -20,43 +20,7 @@ const FootballPage = () => (
 
     <h2>REGISTRATION</h2>
 
-    <h3>2021 Registration</h3>
-
-    <p>
-      <b>*May 1:</b> Online registration will open
-    </p>
-    <p>
-      <b>*May 12th (6-8pm) & *May 15th (10am-1pm):</b> In-person registration at
-      Trailblazer Park
-    </p>
-    <p>
-      *Please Note: Football sign-ups are on a first-come, first-served basis!
-      Each team is allowed a maximum of 22 players. If there are more than 22
-      players registered for an age group, we will do our best to accommodate a
-      second team, but this will be based on if there are enough additional
-      registrants. If there are not enough players to make two teams in an age
-      group and your child is #23 or after in registration, they WILL NOT be
-      able to play in the upcoming season.
-    </p>
-
-    <h3>Items Needed for Registration:</h3>
-    <ul>
-      <li>
-        Player Birth Certificate (We are unable to accept any registrations
-        without a valid Birth Certificate)
-      </li>
-
-      <li>$160 for tackle, $100 for flag</li>
-    </ul>
-
-    <dl class="form-list">
-      <dd>
-        For online registration: We will provide a google form to submit
-        registration information. Once submitted, you will receive a
-        confirmation email (please allow 1-2 business days) informing you of
-        your athletes's place in line, as well as payment instructions.
-      </dd>
-    </dl>
+    <p>2021 Registration is closed.</p>
 
     <h2>FOOTBALL FAQ</h2>
 

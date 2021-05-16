@@ -10,46 +10,20 @@ const IndexPage = () => (
     <SEO title="Home" />
     <div class="updates">
       <h2>2021 Updates</h2>
+      <p>Save the date, and get excited! Devildogs unite!</p>
+
       <p>
-        <b>*May 1:</b> Online registration will open
+        The TRHS football program will be holding a one-day summer football
+        clinic!
+        <br />
+        When: July 21, 2021
+        <br />
+        Ages: 7-12 years old
+        <br />
+        Time: 10:00-12:00
       </p>
-      <p>
-        <b>*May 12th (6-8pm) & May 15th (10am-1pm):</b> In-person registration
-        at Trailblazer Park
-      </p>
-      <p>Cost: $160 per athlete</p>
-      <p>
-        *Please Note: Football sign-ups are on a first-come, first-served basis!
-        Each team is allowed a maximum of 22 players. If there are more than 22
-        players registered for an age group, we will do our best to accommodate
-        a second team, but this will be based on if there are enough additional
-        registrants. If there are not enough players to make two teams in an age
-        group and your child is #23 or after in registration, they WILL NOT be
-        able to play in the upcoming season.
-      </p>
-      <p>
-        We’re looking forward to a great season! <b>#WeAreTR</b>
-      </p>
+      <p>More information to come.</p>
     </div>
-    <h2>Registration Forms</h2>
-    <p>
-      <a
-        href="https://forms.gle/EP98mGhRtKuPeaGv9"
-        target="_blank"
-        rel="nofollow"
-      >
-        2021 Football Registration
-      </a>
-    </p>
-    <p>
-      <a
-        href="https://forms.gle/yiMC8ZvmZswC5Jv39"
-        target="_blank"
-        rel="nofollow"
-      >
-        2021 Cheer Registration
-      </a>
-    </p>
     <h2>Mission</h2>
     <p>
       The purpose of the Travelers Rest Youth Association is to provide
