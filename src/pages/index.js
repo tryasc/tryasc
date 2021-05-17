@@ -11,7 +11,6 @@ const IndexPage = () => (
     <div class="updates">
       <h2>2021 Updates</h2>
       <p>Save the date, and get excited! Devildogs unite!</p>
-
       <p>
         The TRHS football program will be holding a one-day summer football
         clinic!
@@ -24,6 +23,15 @@ const IndexPage = () => (
       </p>
       <p>More information to come.</p>
     </div>
+    <p>
+      <a
+        href="https://forms.gle/yiMC8ZvmZswC5Jv39"
+        target="_blank"
+        rel="nofollow"
+      >
+        2021 Cheer Registration
+      </a>
+    </p>
     <h2>Mission</h2>
     <p>
       The purpose of the Travelers Rest Youth Association is to provide

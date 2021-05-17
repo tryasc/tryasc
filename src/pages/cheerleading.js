@@ -14,7 +14,26 @@ const CheerleadingPage = () => (
       on character development. Go Devildogs! <strong>#weareTR</strong>
     </p>
     <h2>REGISTRATION</h2>
-    <p>2021 Registration is closed.</p>
+    <h3>2021 Registration</h3>
+    <p>
+      <b>*May 1:</b> Online registration will open
+    </p>
+    <p>
+      <b>*May 12th (6-8pm) & *May 15th (10am-1pm):</b> In-person registration at
+      Trailblazer Park
+    </p>{" "}
+    <h3>Items Needed for Registration:</h3>
+    <ul>
+      <li>$160</li>
+    </ul>
+    <dl class="form-list">
+      <dd>
+        For online registration: We will provide a google form to submit
+        registration information. Once submitted, you will receive a
+        confirmation email (please allow 1-2 business days) which will include
+        payment instructions.
+      </dd>
+    </dl>
     <h2>CHEERLEADING FAQ</h2>
     <h4>How old does my child have to be to cheer?</h4>
     <p>
