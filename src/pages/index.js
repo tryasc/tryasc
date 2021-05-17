@@ -23,6 +23,8 @@ const IndexPage = () => (
       </p>
       <p>More information to come.</p>
     </div>
+    <h2>Registration Forms</h2>
+    <p>2021 Football Registration is closed.</p>
     <p>
       <a
         href="https://forms.gle/yiMC8ZvmZswC5Jv39"
