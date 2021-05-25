@@ -10,6 +10,12 @@ const IndexPage = () => (
     <SEO title="Home" />
     <div class="updates">
       <h2>2021 Updates</h2>
+      <p>
+        Cheer fittings will be held @ Trailblazer- near concessions on
+        Wednesday, May 26th from 530-730...
+        <br />
+        Any questions, please text Allison Lee @ 864-561-6633
+      </p>
       <p>Save the date, and get excited! Devildogs unite!</p>
       <p>
         The TRHS football program will be holding a one-day summer football
