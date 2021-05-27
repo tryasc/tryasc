@@ -11,13 +11,15 @@ const IndexPage = () => (
     <div class="updates">
       <h2>2021 Updates</h2>
       <p>
-        Cheer fittings will be held @ Trailblazer- near concessions on
-        Wednesday, May 26th from 530-730...
-        <br />
-        Any questions, please text Allison Lee @ 864-561-6633
+        Sign ups have gone great so far for TRYA football, and we are in search of more players in hopes of possibly having 2 flag, 8U and 10U teams. <br/><br/>
+        6U Flag: Up to 7 more<br/>
+        8U: Up to 5 more<br/>
+        10U: Up to 4 more<br/>
+        12U: Full<br/>
+        <br/>
+        <a href="https://docs.google.com/forms/d/1oE2lhhgC5lD8xWSIsJW6tHOuFYw2RJj5bG-0JROGHQE/viewform?edit_requested=true">Football Registration Form</a>
       </p>
-      <p>Save the date, and get excited! Devildogs unite!</p>
-      <p>
+      <p style={{ borderTop: "1px dashed #333333", paddingTop: "25px" }}>
         The TRHS football program will be holding a one-day summer football
         clinic!
         <br />
@@ -29,17 +31,6 @@ const IndexPage = () => (
       </p>
       <p>More information to come.</p>
     </div>
-    <h2>Registration Forms</h2>
-    <p>2021 Football Registration is closed.</p>
-    <p>
-      <a
-        href="https://forms.gle/yiMC8ZvmZswC5Jv39"
-        target="_blank"
-        rel="nofollow"
-      >
-        2021 Cheer Registration
-      </a>
-    </p>
     <h2>Mission</h2>
     <p>
       The purpose of the Travelers Rest Youth Association is to provide
