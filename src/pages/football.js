@@ -2,10 +2,12 @@ import React from "react"
 
 import Layout from "../components/layout"
 import SEO from "../components/seo"
+import Announcements from "../components/announcements"
 
 const FootballPage = () => (
   <Layout>
     <SEO title="Football" />
+    <Announcements />
     <h1>TRYA DEVILDOG FOOTALL</h1>
 
     <p>
