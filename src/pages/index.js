@@ -11,6 +11,10 @@ const IndexPage = () => (
     <div class="updates">
       <h2>2021 Updates</h2>
       <p>
+        Our team store is now live!  Click <a href="https://tryafootball2021.itemorder.com/sale">here</a>here for all your TRYA gear!
+        <li>Make sure to place your order by Sunday, June 20th!
+    </P>
+    <p style={{ borderTop: "1px dashed #333333", paddingTop: "25px" }}>
         Sign ups have gone great so far for TRYA football, and we are in search of more players in hopes of possibly having 2 flag, 8U and 10U teams. <br/><br/>
         6U Flag: Up to 7 more<br/>
         8U: Up to 5 more<br/>
