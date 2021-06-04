@@ -27,8 +27,7 @@ const Announcements = () => {
          <li> June 9 - 10u
          <li> June 14 - 12u 
          <li> June 16 - make-up
-  ______________________________________________________________________________________________________________________________
-  
+   <p style={{ borderTop: "1px dashed #333333", paddingTop: "25px" }}></p>
    <p><b>**10u FOOTBALL PLAYERS**</b>
      We are excited to annouce we have enough registrants for two 10u teams!  We will be holding player evaluations in order to assign teams in the most fair way possible.  
       <li>Monday, June 14th
