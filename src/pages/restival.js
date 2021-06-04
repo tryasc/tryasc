@@ -21,6 +21,16 @@ const RestivalPage = () => (
       <br />
       Trailblazer Park
     </p>
+  <p>
+    For updates, and to see our list of great silent auction items, click 
+    <a
+        href="https://sites.google.com/view/travelersrestival/home"
+        target="_blank"
+        rel="nofollow"
+      >
+        HERE
+    </a>
+  </p>
     <p>
       <a
         href="https://forms.gle/qQNYASncdcp4NTx49"
