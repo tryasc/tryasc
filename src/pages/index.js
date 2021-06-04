@@ -14,8 +14,8 @@ const IndexPage = () => (
       <h2>2021 Updates</h2>
       <p>
         Our team store is now live! Click{" "}
-        <a href="https://tryafootball2021.itemorder.com/sale">here</a>here for
-        all your TRYA gear!
+        <a href="https://tryafootball2021.itemorder.com/sale">here</a> for all
+        your TRYA gear!
         <br />
         Make sure to place your order by Sunday, June 20th!
       </p>
