@@ -22,14 +22,7 @@ const RestivalPage = () => (
       Trailblazer Park
     </p>
   <p>
-    For updates, and to see our list of great silent auction items, click 
-    <a
-        href="https://sites.google.com/view/travelersrestival/home"
-        target="_blank"
-        rel="nofollow"
-      >
-        HERE
-    </a>
+    For updates, and to see our list of great silent auction items, click <a href="https://sites.google.com/view/travelersrestival/home">here</a>
   </p>
     <p>
       <a
