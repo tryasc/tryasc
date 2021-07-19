@@ -16,19 +16,21 @@ const IndexPage = () => (
         your TRYA gear!
       </p>
       <p style={{ borderTop: "1px dashed #333333", paddingTop: "25px" }}>
-        2021 Registraion is closed.
-      </p>
-      <p style={{ borderTop: "1px dashed #333333", paddingTop: "25px" }}>
-        The TRHS football program will be holding a one-day summer football
-        clinic!
+        The TRHS football program is hosting a free one day clinic for TRYA
+        players.
         <br />
         When: July 21, 2021
         <br />
         Ages: 7-12 years old
         <br />
-        Time: 10:00-12:00
+        Flag: 10:00 - 11:30
+        <br />
+        8U: 10:30 - 12:00
+        <br />
+        10U: 11:00 - 12:30
+        <br />
+        12U: 11:30 - 1:00
       </p>
-      <p>More information to come.</p>
     </div>
     <h2>Mission</h2>
     <p>
