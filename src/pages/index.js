@@ -21,8 +21,6 @@ const IndexPage = () => (
         <br />
         When: July 21, 2021
         <br />
-        Ages: 7-12 years old
-        <br />
         Flag: 10:00 - 11:30
         <br />
         8U: 10:30 - 12:00
