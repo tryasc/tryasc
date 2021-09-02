@@ -17,34 +17,34 @@ const Announcements = () => {
   return (
     <div className="announcements">
       <p>
-        <b>**TACKLE FOOTBALL**</b>
+        <b>**NOTICE TO TRYA FAMILIES**</b>
         <br />
-        Uniform fittings will be held at First Team (2520 Wade Hampton Blvd,
-        Unit A, Greenville, SC 29615). Please bring your own shoulder pads. If
-        you need to purchase shoulder pads, First Team will be selling them at a
-        discounted rate to TRYA players.
+        As school and other activities begin, staying healthy and avoiding the spread
+        of sickness (even in areas not related to Covid) has alays been important to our
+        organization.  We want to be careful and need your help in keeping everyone well!
         <ul>
-          <li>4:00-6:00pm</li>
-          <li>June 7 - 8u</li>
-          <li>June 9 - 10u</li>
-          <li>June 14 - 12u</li>
-          <li>June 16 - make-up</li>
+          <li>If your child has any of these symptoms, please keep them home:</li>
+          <li>Fever or Chills</li>
+          <li>Cough</li>
+          <li>Shortness of breath of difficulty breathing</li>
+          <li>Fatigue</li>
+          <li>Muscle or body aches</li>
+          <li>Headache</li>
+          <li>New loss of taste or smell</li>
+          <li>Sore throat</li>
+          <li>Congestion or runny nose</li>
+          <li>Nausea or vomiting</li>
+          <li>Diarrhea</li>
+        <b>If your child has had close contact with someone who has tested positive for
+          Covid, they must stay home from practice and games for 10 days.</b>
+        <b>If your child tests postivie for Covid, they must stay home from practice and
+        games for 10 days.</b>
+       <b>Keeping your child home for illness will not affect playtime once they return.  We 
+       apprecaite everyone's cooperation in keeping our community healthy!
+        </b>
         </ul>
       </p>
-      <p style={{ borderTop: "1px dashed #333333", paddingTop: "25px" }}></p>
-      <p>
-        <b>**10u FOOTBALL PLAYERS**</b>
-        <br />
-        We are excited to annouce we have enough registrants for two 10u teams!
-        We will be holding player evaluations in order to assign teams in the
-        most fair way possible.
-        <ul>
-          <li>Monday, June 14th</li>
-          <li>6:00pm</li>
-          <li>Trailblazer Park, upper field</li>
-        </ul>
-      </p>
-    </div>
+       </div>
   )
 }
 
