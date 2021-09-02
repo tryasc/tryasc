@@ -11,23 +11,13 @@ const IndexPage = () => (
     <div class="updates">
       <h2>2021 Updates</h2>
       <p>
-        Our team store is now live! Click{" "}
-        <a href="https://tryafootball2021.itemorder.com/sale">here</a> for all
-        your TRYA gear!
+       Mark your calendars for October 8th - TRYA Night at Travelers Rest High School!  Players and Cheerleaders 
+       get into the game free and will be introducted by team at halftime.  
+       Football players please wear your jersey and Cheerleaders please wear your uniforms.  We hope to see you there!
       </p>
       <p style={{ borderTop: "1px dashed #333333", paddingTop: "25px" }}>
-        The TRHS football program is hosting a free one day clinic for TRYA
-        players.
-        <br />
-        When: July 21, 2021
-        <br />
-        Flag: 10:00 - 11:30
-        <br />
-        8U: 10:30 - 12:00
-        <br />
-        10U: 11:00 - 12:30
-        <br />
-        12U: 11:30 - 1:00
+        Our season has officially begun! Click{" "}
+        <a href="https://docs.google.com/document/d/1t9LqhqtstxDjEHTlREJkV9aopZ8crxbSkXOaCTPDq7U/edit">here</a> for the full schedule!
       </p>
     </div>
     <h2>Mission</h2>
