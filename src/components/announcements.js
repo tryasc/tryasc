@@ -42,7 +42,7 @@ const Announcements = () => {
       </p>
       <p>
         Keeping your child home for illness will not affect playtime once they
-        return. We apprecaite everyone's cooperation in keeping our community
+        return. We appreciate everyone's cooperation in keeping our community
         healthy!
       </p>
     </div>
