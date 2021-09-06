@@ -26,7 +26,7 @@ const Announcements = () => {
         <br />
         If your child has any of these symptoms, please keep them home: <br />
         <b>Fever or Chills</b> - <b>Cough</b> -{" "}
-        <b>Shortness of breath of difficulty breathing</b> - <b>Fatigue</b> -{" "}
+        <b>Shortness of breath or difficulty breathing</b> - <b>Fatigue</b> -{" "}
         <b>Muscle or body aches</b> - <b>Headache</b> -{" "}
         <b>New loss of taste or smell</b> - <b>Sore throat</b> -{" "}
         <b>Congestion or runny nose</b> - <b>Nausea or vomiting</b> -{" "}
