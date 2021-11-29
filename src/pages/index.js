@@ -14,7 +14,7 @@ const IndexPage = () => (
         TRYA athletes will be participating in the Annunal Christmas parade on
         Dec. 11th, 2021. Please plan on being there by 10AM- we will release
         more details the Wednesday prior (12/8) . Please note there is a
-        location change. The route is simply reversed, We will be starting at
+        location change. The route is simply reversed, we will be starting at
         Bank of TR on Plaza Dr this year. Can't wait to see you all there!
       </p>
     </div>
