@@ -4,27 +4,18 @@ import Layout from "../components/layout"
 import SEO from "../components/seo"
 import FacebookIcon from "@material-ui/icons/Facebook"
 import EmailIcon from "@material-ui/icons/Email"
-import Announcements from "../components/announcements"
 
 const IndexPage = () => (
   <Layout>
     <SEO title="Home" />
-    <Announcements />
     <div class="updates">
       <h2>2021 Updates</h2>
       <p>
-        Mark your calendars for October 8th - TRYA Night at Travelers Rest High
-        School! Players and Cheerleaders get into the game free and will be
-        introducted by team at halftime. Football players please wear your
-        jersey and Cheerleaders please wear your uniforms. We hope to see you
-        there!
-      </p>
-      <p style={{ borderTop: "1px dashed #333333", paddingTop: "25px" }}>
-        Our season has officially begun! Click{" "}
-        <a href="https://docs.google.com/document/d/1t9LqhqtstxDjEHTlREJkV9aopZ8crxbSkXOaCTPDq7U/edit">
-          here
-        </a>{" "}
-        for the full schedule!
+        TRYA athletes will be participating in the Annunal Christmas parade on
+        Dec. 11th, 2021. Please plan on being there by 10AM- we will release
+        more details the Wednesday prior (12/8) . Please note there is a
+        location change. The route is simply reversed, We will be starting at
+        Bank of TR on Plaza Dr this year. Can't wait to see you all there!
       </p>
     </div>
     <h2>Mission</h2>
