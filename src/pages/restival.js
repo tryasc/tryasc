@@ -13,7 +13,8 @@ const RestivalPage = () => (
     </p>
     <p>
       We are excited to announce our 3rd annual community-wide Travelers
-      Restival.
+      Restival!
+      <br />
       <br />
       Saturday, August 20, 2022
       <br />
@@ -21,9 +22,7 @@ const RestivalPage = () => (
       <br />
       Trailblazer Park
     </p>
-  <p>
-    Vendor & Sponsorship Applications Coming May 2022.
-  </p>
+    <p>Vendor & Sponsorship Applications Coming May 2022.</p>
     <p>
       Please direct questions to{" "}
       <a href="mailto:travelersrestival@gmail.com">
