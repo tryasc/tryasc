@@ -47,14 +47,14 @@ const Header = ({ siteTitle }) => {
                 Cheerleading
               </Link>
             </li>
-            <li className="cheer">
-              <Link to="/cheerleading/" activeClassName="active">
-                Cheer
-              </Link>
-            </li>
             <li className="restival">
               <Link to="/restival/" activeClassName="active">
                 Travelers Restival
+              </Link>
+            </li>
+            <li className="auction">
+              <Link to="/auction/" activeClassName="active">
+                Silent Auction
               </Link>
             </li>
           </ul>
