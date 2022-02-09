@@ -12,36 +12,18 @@ const RestivalPage = () => (
       <img src={RestivalImg} alt="Travelers Restival" width="500" />
     </p>
     <p>
-      We are excited to announce our 2nd annual community-wide Travelers
+      We are excited to announce our 3rd annual community-wide Travelers
       Restival.
       <br />
-      Saturday, August 21, 2021
+      Saturday, August 20, 2022
       <br />
       3 PM - 8 PM
       <br />
       Trailblazer Park
     </p>
   <p>
-    For updates, and to see our list of great silent auction items, click <a href="https://sites.google.com/view/travelersrestival/home">here</a>
+    Vendor & Sponsorship Applications Coming May 2022.
   </p>
-    <p>
-      <a
-        href="https://forms.gle/qQNYASncdcp4NTx49"
-        target="_blank"
-        rel="nofollow"
-      >
-        2nd Annual Travelers Restival Vendor Application
-      </a>
-    </p>
-    <p>
-      <a
-        href="https://forms.gle/npo1EvxkQLK5hh988"
-        target="_blank"
-        rel="nofollow"
-      >
-        2nd Annual Travelers Restival Sponsor Form
-      </a>
-    </p>
     <p>
       Please direct questions to{" "}
       <a href="mailto:travelersrestival@gmail.com">
