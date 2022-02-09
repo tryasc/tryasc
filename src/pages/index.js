@@ -4,6 +4,7 @@ import Layout from "../components/layout"
 import SEO from "../components/seo"
 import FacebookIcon from "@material-ui/icons/Facebook"
 import EmailIcon from "@material-ui/icons/Email"
+import LocationIcon from "@material-ui/icons/LocationOn"
 
 const IndexPage = () => (
   <Layout>
@@ -34,6 +35,9 @@ const IndexPage = () => (
       >
         Travelers Rest Youth Association Page
       </a>
+      <br />
+      <LocationIcon style={{ paddingTop: "10px" }} />
+      <span>PO Box 335 Travelers Rest, SC 29690</span>
     </p>
   </Layout>
 )

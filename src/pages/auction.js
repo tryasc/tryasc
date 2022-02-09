@@ -19,6 +19,7 @@ const AuctionPage = () => (
       <a
         href="https://docs.google.com/forms/d/e/1FAIpQLSf0CIroiGuaKyjR3IMxXXpntLQVjSViM5Rbj33F_Sqkdbligg/viewform"
         target="_blank"
+        rel="noreferrer"
       >
         Travelers Restival Silent Auction Donation Application
       </a>
