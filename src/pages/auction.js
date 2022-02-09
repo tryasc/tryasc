@@ -9,7 +9,7 @@ const AuctionPage = () => (
     <h1>Travelers Restival Silent Auction</h1>
     <p>
       Thank you for investing in our community & children with your generous
-      donation to the Travelers Rest Silent Auction!
+      donation to the Travelers Restval Silent Auction!
     </p>
     <p>
       Auction items will be available to bid on at our 3rd annual Travelers
