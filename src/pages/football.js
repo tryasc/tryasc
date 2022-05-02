@@ -20,7 +20,7 @@ const FootballPage = () => (
 
     <h2>REGISTRATION</h2>
 
-    <p>2021 Registration is closed.</p>
+      <p><a href="https://docs.google.com/forms/d/e/1FAIpQLSfoyAco8EwepBoQAuOAPhs3pBHGurFS6cwLBdnqKg_gpeO_Ow/viewform">2022 REGISTRATION FORM</a></p>
 
     <h2>FOOTBALL FAQ</h2>
 

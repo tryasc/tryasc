@@ -14,7 +14,7 @@ const CheerleadingPage = () => (
       on character development. Go Devildogs! <strong>#weareTR</strong>
     </p>
     <h2>REGISTRATION</h2>
-    <p>2021 Registration is closed.</p>
+      <p><a href="https://docs.google.com/forms/d/e/1FAIpQLSeZw7PTAm9qIEZtyr1xKi7q8KWuKTV4jadGCJ8Xk66q5S5yvA/viewform">2022 REGISTRATION FORM</a></p>
     <h2>CHEERLEADING FAQ</h2>
     <h4>How old does my child have to be to cheer?</h4>
     <p>
