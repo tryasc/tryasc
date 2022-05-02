@@ -36,40 +36,6 @@ const Header = ({ siteTitle }) => {
             position: "relative",
           }}
         >
-          <Typography variant="h6">
-            <Link to="/" className="site-title">
-              <TrLogo /> {siteTitle}
-            </Link>
-          </Typography>
-          <Box style={{ marginTop: "-75px", padding: 0}} display={{ xs: 'none', md: 'flex' }}>
-            <ul style={{ marginBottom: 0, paddingRight: "10px" }}>
-              <li>
-                <Link to="/" activeClassName="active">
-                  Home
-                </Link>
-              </li>
-              <li>
-                <Link to="/football/" activeClassName="active">
-                  Football
-                </Link>
-              </li>
-              <li className="cheerleading">
-                <Link to="/cheerleading/" activeClassName="active">
-                  Cheerleading
-                </Link>
-              </li>
-              <li className="restival">
-                <Link to="/restival/" activeClassName="active">
-                  Travelers Restival
-                </Link>
-              </li>
-              <li className="auction">
-                <Link to="/auction/" activeClassName="active">
-                  Silent Auction
-                </Link>
-              </li>
-            </ul>
-          </Box>
           <Box display={{ xs: 'flex', md: 'none' }}>
             <IconButton
               size="large"
@@ -127,6 +93,40 @@ const Header = ({ siteTitle }) => {
                 </Typography>
               </MenuItem>
             </Menu>
+          </Box>
+          <Typography variant="h6">
+            <Link to="/" className="site-title">
+              <TrLogo /> {siteTitle}
+            </Link>
+          </Typography>
+          <Box style={{ marginTop: "-75px", padding: 0}} display={{ xs: 'none', md: 'flex' }}>
+            <ul style={{ marginBottom: 0, paddingRight: "10px" }}>
+              <li>
+                <Link to="/" activeClassName="active">
+                  Home
+                </Link>
+              </li>
+              <li>
+                <Link to="/football/" activeClassName="active">
+                  Football
+                </Link>
+              </li>
+              <li className="cheerleading">
+                <Link to="/cheerleading/" activeClassName="active">
+                  Cheerleading
+                </Link>
+              </li>
+              <li className="restival">
+                <Link to="/restival/" activeClassName="active">
+                  Travelers Restival
+                </Link>
+              </li>
+              <li className="auction">
+                <Link to="/auction/" activeClassName="active">
+                  Silent Auction
+                </Link>
+              </li>
+            </ul>
           </Box>
         </Toolbar>
       </Container>
