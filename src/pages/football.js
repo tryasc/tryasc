@@ -9,7 +9,7 @@ const FootballPage = () => (
     <h1>TRYA DEVILDOG FOOTALL</h1>
 
     <p>
-      TRYA offers youth football for 5-12 year olds through Greenville county
+      TRYA offers youth football for 7-12 year olds through Greenville county
       Rec. The safety of all our athletes is extremely important, and we
       strictly follow all safety guildlines set out by Greenville Rec and are
       members of USA Heads Up Football and American Youth Football. We strive to
@@ -26,17 +26,14 @@ const FootballPage = () => (
 
     <h4>How old does my child have to be to play football?</h4>
     <p>
-      TRYA offers football for players age 5-12. The age guidelines for each
+      TRYA offers football for players age 7-12. The age guidelines for each
       division follow a birth date cutoff of August 31st of the current year.
     </p>
     <p>
-      <strong>6u Flag (5-6)</strong> – 6 or under by 8/31
+      <strong>8u Tackle (7-8)</strong> – 8 or under by 8/31
       <br />
-      *Players must be 5 years old on or before August 31 of the current year to
+      *Players must be 7 years old on or before August 31 of the current year to
       play
-    </p>
-    <p>
-      <strong>8u Tackle (7-8)</strong> - 8 or under by 8/31
     </p>
     <p>
       <strong>10u Tackle (9-10)</strong> - 10 or under by 8/31
@@ -52,9 +49,6 @@ const FootballPage = () => (
       or above, which will denote they may not touch the ball during play.
     </p>
     <p>
-      <strong>6u Flag</strong> – No weight limit
-    </p>
-    <p>
       <strong>8u Tackle</strong> – 110 lbs
     </p>
     <p>
@@ -66,9 +60,8 @@ const FootballPage = () => (
 
     <h4>How much does it cost to play?</h4>
     <p>
-      The Registration fee for tackle Football players for the 2021 season is
-      $160. The Registraion fee for flag football players for the 2021 season is
-      $100. TRYA is a non-profit organization and we try to keep costs as low as
+      The Registration fee for tackle Football players for the 2022 season is
+      $180. TRYA is a non-profit organization and we try to keep costs as low as
       possible for our members. The increased cost this season will not only go
       toward high qualtiy uniforms, field costs, insurance, ref fees, and
       various other expenses, but will also eliminate the need for any
@@ -77,10 +70,6 @@ const FootballPage = () => (
 
     <h4>What equipment will my child need?</h4>
 
-    <p>
-      6u Flag Football: Each player will need to have their own mouth guard and
-      cleats.
-    </p>
     <p>
       Tackle Football: Each player will need to have their own set of shoulder
       pads, white helmet, mouth guard, and cleats. Padded practice pants and
@@ -104,7 +93,7 @@ const FootballPage = () => (
 
     <h4>Will my child have to do any fundraisers?</h4>
     <p>
-      For the 2021 season, we have slightly increased registration costs in
+      For the 2022 season, we have slightly increased registration costs in
       order to eliminate the need for any individual team fundraisers.
     </p>
 
