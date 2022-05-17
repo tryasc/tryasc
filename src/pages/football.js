@@ -18,10 +18,6 @@ const FootballPage = () => (
       focus on character development. Go Devildogs! <strong>#weareTR</strong>
     </p>
 
-    <h2>REGISTRATION</h2>
-
-      <p><a href="https://docs.google.com/forms/d/e/1FAIpQLSfoyAco8EwepBoQAuOAPhs3pBHGurFS6cwLBdnqKg_gpeO_Ow/viewform">2022 REGISTRATION FORM</a></p>
-
     <h2>FOOTBALL FAQ</h2>
 
     <h4>How old does my child have to be to play football?</h4>
