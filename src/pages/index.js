@@ -11,8 +11,8 @@ const IndexPage = () => (
     <SEO title="Home" />
     <div class="updates">
       <h2>2022 Updates</h2>
-      <h4>IN-PERSON REGISTRATION IS at TR CITY HALL @ Trailblazer Park, May 18th (6pm-8pm) & May 21st (10am - 1pm)</h4>
-      <p>Football must bring a birth certificate or copy of birth certificate.  Payment accepted will be cash, money order, cashier's check, personal check, or credit card with an additional processing fee.<br/>
+      <h4>IN-PERSON REGISTRATION is at TR CITY HALL @ Trailblazer Park, May 21st (10am - 1pm)</h4>
+      <p>Football must bring a birth certificate or copy of birth certificate.  Payment accepted will be cash, money order, cashier's check, or personal check.<br/>
         **cash needs to be in a sealed/marked envelope. This should be completed prior to arrival. No change accepted. Returned checks subject to a $39 processing fee.</p>
       <p>If you would like to fill out paperwork ahead of time, please print the following and bring them with you:</p>
       <p><a href="https://drive.google.com/file/d/142rwLYK_dB6S3s3UvWLC69K0Zd0h-R9r/view">GREENVILLE REC FOOTBALL WAIVER (Also required for Cheer)</a></p>
