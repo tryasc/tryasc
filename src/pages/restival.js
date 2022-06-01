@@ -22,8 +22,9 @@ const RestivalPage = () => (
       <br />
       Trailblazer Park
     </p>
-    <p>Vendor & Sponsorship Applications Coming May 2022.</p>
-    <p>
+    <p><a href="https://docs.google.com/forms/d/e/1FAIpQLSdRkYnsokPz4uVTsY76E5qT0Kk8CTENJfskD7xLDnewTOciGA/viewform">2022 Travelers Restival Sponsor Form</a></p>
+    <p><a href="https://docs.google.com/forms/d/e/1FAIpQLSe0i80iG4rC5_PWvvYkXRSgSwYYQBlzGKrkaT9M6rHKd-dkZQ/viewform">2022 Travelers Restival Market Vendor & Food Vendor Application</a></p>
+     <p>
       Please direct questions to{" "}
       <a href="mailto:travelersrestival@gmail.com">
         travelersrestival@gmail.com
