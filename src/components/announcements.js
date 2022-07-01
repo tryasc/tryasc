@@ -13,6 +13,9 @@ const Announcements = () => {
         June 28: 4pm-6pm<br/>
         June 29: 4pm-6pm<br/>
         July 5: 4pm-6pm<br/>
+        TWO ADDITIONAL DATES ADDED<br/>
+        July 6: 4pm-6pm<br/>
+        July 7: 4pm-6pm<br/>
       </p>
       <p>
         All football players must go to one of the above fitting sessions.  Please bring shoulder pads, if possible.
