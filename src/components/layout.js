@@ -10,7 +10,6 @@ import PropTypes from "prop-types"
 import { useStaticQuery, graphql } from "gatsby"
 import { GreenvilleRecLogo } from "./image"
 import { AyfLogo } from "./ayf"
-import Announcements from "./announcements"
 
 import Header from "./header"
 import "../styles/styles.scss"
@@ -38,7 +37,6 @@ const Layout = ({ children }) => {
         }}
       >
         <main>
-        <Announcements />
         {children}
         </main>
         <footer>
