@@ -56,9 +56,9 @@ const FootballPage = () => (
 
     <h4>How much does it cost to play?</h4>
     <p>
-      The Registration fee for tackle Football players for the 2022 season is
+      The Registration fee for tackle Football players for the 2023 season is
       $180. TRYA is a non-profit organization and we try to keep costs as low as
-      possible for our members. The increased cost this season will not only go
+      possible for our members. Registration costs will not only go
       toward high qualtiy uniforms, field costs, insurance, ref fees, and
       various other expenses, but will also eliminate the need for any
       individual team fundraising.
@@ -89,8 +89,8 @@ const FootballPage = () => (
 
     <h4>Will my child have to do any fundraisers?</h4>
     <p>
-      For the 2022 season, we have slightly increased registration costs in
-      order to eliminate the need for any individual team fundraisers.
+      We have factored in any additional expenses to our registration costs
+      in order to eliminate the need for any individual team fundraisers.
     </p>
 
     <h4>Who do I contact if I have a problem?</h4>
@@ -111,7 +111,7 @@ const FootballPage = () => (
 
     <h4>How can I volunteer?</h4>
     <p>
-      We are always looking for motivated volunteers! Please contact us at
+      We are always looking for motivated volunteers! Please contact us at 
       <a href="mailto:info.tryasc@gmail.com">info.tryasc@gmail.com</a> if you
       are interested in a volunteer oppoortunity. Thank you for your interest!
     </p>
