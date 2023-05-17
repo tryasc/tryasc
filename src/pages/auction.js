@@ -9,11 +9,11 @@ const AuctionPage = () => (
     <h1>Travelers Restival Silent Auction</h1>
     <p>
       Thank you for investing in our community & children with your generous
-      donation to the Travelers Restval Silent Auction!
+      donation to the Travelers Restival Silent Auction!
     </p>
     <p>
-      Auction items will be available to bid on at our 3rd annual Travelers
-      Restival on August 20, 2022.
+      Auction items will be available to bid on at our 4th annual Travelers
+      Restival on August 19, 2023.
     </p>
     <p>
       <a
