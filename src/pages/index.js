@@ -11,18 +11,7 @@ const IndexPage = () => (
     <SEO title="Home" />
     <div class="updates">
       <h2>2023 Updates</h2>
-      <p>2023 Football & Cheer Registration is Now Open</p>
-      <p>Online Registration will run from 5/3 - 5/20<br/>
-        <a href="https://forms.gle/1A5hFX13hATkTY5P7" target="_blank" rel="noreferrer">Football</a><br/>
-        <a href="https://forms.gle/sU72E8DR5JbMgFeZ8" target="_blank" rel="noreferrer">Cheer</a><br/><br/>
-        In Person Registration will be held at TR Town Hall (125 Trailblazer Dr, Travelers Rest, SC 29690)<br/>
-        *Wednesday, 5/17 6pm-8pm<br/>
-        *Saturday, 5/20 10am-1pm<br/><br/>
-        Links to required documents are below:<br/>
-        <a href="https://drive.google.com/file/d/142rwLYK_dB6S3s3UvWLC69K0Zd0h-R9r/view" target="_blank" rel="noreferrer">Waiver</a><br/>
-        <a href="https://drive.google.com/file/d/1JdqNy__OeLlas7801-IC6WJyvFIRtfNn/view" target="_blank" rel="noreferrer">Player/Parent Code of Conduct</a><br/>
-        <a href="https://drive.google.com/file/d/1Ow-y4Myf7HTL0gBdcAzXO1SWu8shXHIo/view" target="_blank" rel="noreferrer">Physical (Football Only)</a><br/>
-      </p>
+      <p>2023 Football & Cheer Registration is Now Closed</p>
     </div>
     <h2>Mission</h2>
     <p>
