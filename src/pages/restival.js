@@ -23,7 +23,6 @@ const RestivalPage = () => (
       Trailblazer Park
     </p>
     <p><a href="https://forms.gle/o4kme9kKsoVdhj8N9">2023 Travelers Restival Sponsor Form</a></p>
-    <p><a href="https://forms.gle/z1C8rtU8J7QBeFxu8">2023 Travelers Restival Market Vendor & Food Vendor Application</a></p>
      <p>
       Please direct questions to{" "}
       <a href="mailto:travelersrestival@gmail.com">
