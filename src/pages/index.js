@@ -10,8 +10,12 @@ const IndexPage = () => (
   <Layout>
     <SEO title="Home" />
     <div class="updates">
-      <h2>2023 Updates</h2>
-      <p>2023 Football & Cheer Registration is Now Closed</p>
+      <h2>2024 Updates</h2>
+      <p>2024 Football & Cheer Online Registration is Now Open:</p>
+      <br/>
+      <p><a href='https://forms.gle/JR9guvThGyUR1LKKA'>Cheer Registration</a></p>
+      <p><a href='https://forms.gle/1rnUyseD4kgEL7X58'>Football Registration</a></p>
+      <p><a href='https://forms.gle/1rnUyseD4kgEL7X58'>Flag Football Registration</a></p>
     </div>
     <h2>Mission</h2>
     <p>

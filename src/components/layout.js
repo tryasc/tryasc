@@ -8,7 +8,6 @@
 import React from "react"
 import PropTypes from "prop-types"
 import { useStaticQuery, graphql } from "gatsby"
-import { GreenvilleRecLogo } from "./image"
 import { AyfLogo } from "./ayf"
 
 import Header from "./header"
@@ -43,9 +42,6 @@ const Layout = ({ children }) => {
           © {new Date().getFullYear()} {data.site.siteMetadata.title}
         </footer>
         <div class="footer-links">
-          <a target="_blank" rel="noreferrer" href="https://greenvillerec.com/">
-            <GreenvilleRecLogo />
-          </a>
           <a
             target="_blank"
             rel="noreferrer"

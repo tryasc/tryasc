@@ -12,11 +12,11 @@ const RestivalPage = () => (
       <img src={RestivalImg} alt="Travelers Restival" width="500" />
     </p>
     <p>
-      We are excited to announce our 4th annual community-wide Travelers
+      We are excited to announce our 5th annual community-wide Travelers
       Restival!
       <br />
       <br />
-      Saturday, August 19, 2023
+      Saturday, August 24, 2024
       <br />
       3 PM - 8 PM
       <br />

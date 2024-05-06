@@ -12,8 +12,8 @@ const AuctionPage = () => (
       donation to the Travelers Restival Silent Auction!
     </p>
     <p>
-      Auction items will be available to bid on at our 4th annual Travelers
-      Restival on August 19, 2023.
+      Auction items will be available to bid on at our 5th annual Travelers
+      Restival on August 24, 2024.
     </p>
     <p>
       <a
@@ -24,7 +24,7 @@ const AuctionPage = () => (
         Travelers Restival Silent Auction Donation Application
       </a>
     </p>
-    <p>Please direct questions to info.tryasc@gmail.com.</p>
+    <p>Please direct questions to <a href="mailto://travelersrestival@gmail.com">travelersrestival@gmail.com</a>.</p>
   </Layout>
 )
 
